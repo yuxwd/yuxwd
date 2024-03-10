@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋  
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact)
+
+![gytxtx's github stats](https://github-readme-stats.vercel.app/api?username=gytxtx&count_private=true&show_icons=true&count_private=true)
+
+
 
 <!--
 **yuxwd/yuxwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
