@@ -3,10 +3,23 @@
 
 
 ## 关于我
-  首先我就是一个初中生我也不知道你是怎么看到我的，对吧。你可以随便看看真的我没有什么项目（大半都是分支过来的对不对），
-我自己投入最大的也就是我的网站了（mywed），我也在写一些文章关于我对人生的感慨和感悟。
+  睡觉大赛冠军得主
 --电灯地球
---2024.6.21
+--2025.6.21
+
+      满江红
+殢酒困情，数千秋、为谁淹留。
+烟雨起、鸳鸯别浦，晚云难收。
+何处鹧鸪啼杨柳，砧杵声催望舒柔。
+问归雁、怎是白了头，泪不休。
+
+坐临牖，梦扬州。
+望翠楼，多红袖。
+泪盈掬，行客可堪回首？
+恻恻清寒小栏外，依依箫声凤台旧。
+乱妆浓、醉把双鱼求，离人愁。
+
+![](IMG_0925.JPG)
 
 
 ## 我的偏好
@@ -50,11 +63,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- � I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- � I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- � Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
