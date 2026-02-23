@@ -40,11 +40,6 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![GitHub Desktop](https://img.shields.io/badge/github%20desktop-6f2d98.svg?style=for-the-badge&logo=github&logoColor=white)](https://desktop.github.com/)
 
-## 卡片
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact)
-
-![gytxtx's github stats](https://github-readme-stats.vercel.app/api?username=gytxtx&count_private=true&show_icons=true&count_private=true)
-
 
 ## 相关链接
 
